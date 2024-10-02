@@ -8,10 +8,12 @@
 
 Este es un proyecto para aprender a usar condicionales.
 
+```html
 <video width="640" height="480" controls autoplay>
   <source src="files/intro.mp4" type="video/mp4">
   Tu navegador no soporta el elemento de video.
 </video>
+```
 
 Adicionalmente hemos aprendido a usar el CND de p5.js incluyendo el siguiente código dentro del `head` del arch. index.html de la siguiente manera:
 
